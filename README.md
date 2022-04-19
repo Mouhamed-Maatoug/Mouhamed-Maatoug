@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Mouhamed-Maatoug, I'm an electromechanical engineer. I have graduate from 2018
-- 👀 I’m interested in mechanical designe and conception
-- 🌱 I have three years of experience in mechanical design, machaine CNC, Industriel machine, Special machine
-- 💞️ I’m looking For a new experience and a new challenge
-
+My name is Maatoug I am Industrial Design, also a electroMechanical Design Engineer, Graphic Designer, Packaging Designer, PCB Designer Strategist and Entrepreneur, I help large scale companies and entrepreneurs to innovate and guide their products towards market success! I will design appropriate enclosure for your hardware products! Appealing and user-friendly Product Enclosure adds value to enterprise solutions. CAD software file containing enclosure and solutions with all target components. 
 <!---
 Mouhamed-Maatoug/Mouhamed-Maatoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
